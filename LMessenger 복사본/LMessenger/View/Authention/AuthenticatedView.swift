@@ -19,6 +19,7 @@ struct AuthenticatedView: View {
             // Todo: mainTabView
             MainTabView()
             //연습코드수정
+            //브랜치연습
         }
     }
 }
