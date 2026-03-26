@@ -18,6 +18,7 @@ struct AuthenticatedView: View {
         case .authenticated:
             // Todo: mainTabView
             MainTabView()
+            //연습코드수정
         }
     }
 }
